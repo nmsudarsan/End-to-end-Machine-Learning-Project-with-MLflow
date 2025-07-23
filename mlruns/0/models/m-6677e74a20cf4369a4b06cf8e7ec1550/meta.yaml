@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/nmsud/Downloads/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/models/m-6677e74a20cf4369a4b06cf8e7ec1550/artifacts
+creation_timestamp: 1753238094528
+experiment_id: '0'
+last_updated_timestamp: 1753238099819
+model_id: m-6677e74a20cf4369a4b06cf8e7ec1550
+model_type: null
+name: model
+source_run_id: 83148cc7fbec4522968547a3f47e243b
+status: 2
+status_message: null

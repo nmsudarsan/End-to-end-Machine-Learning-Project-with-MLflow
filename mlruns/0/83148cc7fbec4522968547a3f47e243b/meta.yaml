@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nmsud/Downloads/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/83148cc7fbec4522968547a3f47e243b/artifacts
+end_time: 1753238099847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83148cc7fbec4522968547a3f47e243b
+run_name: luminous-lark-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753238094361
+status: 3
+tags: []
+user_id: nmsud
